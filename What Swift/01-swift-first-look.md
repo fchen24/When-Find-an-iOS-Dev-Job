@@ -1,5 +1,7 @@
 # [Swift](https://developer.apple.com/documentation/swift)
 
+[-->more about swift](https://swift.org/about/)
+
 Swift includes modern features: 
 
 - type inference
