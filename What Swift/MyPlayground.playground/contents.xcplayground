@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
     <pages>
         <page name='Table of Contents'/>
         <page name='Swift ARC Demo'/>
         <page name='Sequence and Collection'/>
+        <page name='Escaping Closures'/>
         <page name='About Playground Markup'/>
     </pages>
 </playground>
