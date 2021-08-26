@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
     <pages>
         <page name='Table of Contents'/>
         <page name='Swift ARC Demo'/>
         <page name='Sequence and Collection'/>
         <page name='Escaping Closures'/>
+        <page name='UIKit Framework'/>
+        <page name='Split View Controller'/>
+        <page name='Tab Bar Controller'/>
+        <page name='Navigation Controller'/>
+        <page name='Scroll View'/>
+        <page name='Table View'/>
+        <page name='Collection View'/>
+        <page name='Normal Template'/>
+        <page name='With View Template'/>
         <page name='About Playground Markup'/>
     </pages>
 </playground>

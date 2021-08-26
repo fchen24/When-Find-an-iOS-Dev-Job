@@ -1,7 +1,7 @@
 
 //: [More about](https://developer.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html#//apple_ref/doc/uid/TP40016497-CH2-SW1)
 
-//: ****
+//: ---
     
 // Markup
 // Headings
@@ -54,5 +54,5 @@
 // Video
 //: ![video](video.mp4 poster=“poster.jpg” width=“integer width” height=“integer height”)
 
-//: ****
+//: ***
 //: [Next TOC](@next)
